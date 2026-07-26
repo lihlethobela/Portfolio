@@ -1,4 +1,4 @@
-# Hi, I'm Lihle Thobela 👋
+# Hi, I'm Lihle Thobela 
 
 ## About Me
 I am a final-year Bachelor of Information Technology in Business Systems student.
